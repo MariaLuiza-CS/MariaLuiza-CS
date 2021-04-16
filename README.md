@@ -4,7 +4,7 @@ Meu nome é Maria Luíza, no momento estou cursando ciência da computação, e 
 
 Adoro a área de desenvolvimento mobile, principalmente voltado para o android. Sou apaixonada por resolver problemas e aprender. Sempre aberta para novos desafios e pronta para coisas novas.
 
-####🌎 "O que sabemos é uma gota; o que ignoramos é um oceano."
+🌎 **"O que sabemos é uma gota; o que ignoramos é um oceano."**
 
 -📍 Recife, PE
 
