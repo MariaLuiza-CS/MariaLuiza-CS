@@ -12,4 +12,4 @@ Me encontre também 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marialuiza-0/)](https://www.linkedin.com/in/marialuiza-0/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:m.luiza1843@gmail.com)](mailto:m.luiza1843@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/papodedev/) 
+
