@@ -2,7 +2,7 @@
  
 Meu nome é Maria Luíza, no momento estou cursando ciência da computação, e programo desde 2019.
 
-Adoro a área de desenvolvimento mobile, principalmente voltado para o android. Sou apaixonada por resolver problemas e aprender. Sempre aberta para novos desafios e pronta para coisas novas.
+Estudando a área de desenvolvimento mobile, voltado para o android nativo. Sou apaixonada por resolver problemas e conhecimento. Sempre aberta para novos desafios e pronta para coisas novas.
 
 🌎 **"O que sabemos é uma gota; o que ignoramos é um oceano."**
 
