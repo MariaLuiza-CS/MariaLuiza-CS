@@ -1,14 +1,22 @@
-### Hey 👋
+### Hey! i am Maria Luiza 👋
  
-Meu nome é Maria Luíza, no momento estou cursando ciência da computação, e programo desde 2019.
+ <div>
+  <a href="https://github.com/MariaLuiza-CS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaLuiza-CS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLuiza-CS&layout=compact&langs_count=7&theme=radical"/>
+</div>
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Rafa-React" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="right" alt="Rafa-yoda" height="200" width="200" src="https://im3.ezgif.com/tmp/ezgif-3-a7defa7cea38.gif">
+</div>
+ 
+  ##
+ 
+ <div>
+  <a href="https://www.linkedin.com/in/marialuiza-0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:m.luiza1843@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
 
-Estudando a área de desenvolvimento mobile, voltado para o android nativo. Sou apaixonada por resolver problemas e conhecimento. Sempre aberta para novos desafios e pronta para coisas novas.
-
-🌎 **"O que sabemos é uma gota; o que ignoramos é um oceano."**
-
--📍 Recife, PE
-
-Me encontre também 👇
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marialuiza-0/)](https://www.linkedin.com/in/marialuiza-0/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:m.luiza1843@gmail.com)](mailto:m.luiza1843@gmail.com)
