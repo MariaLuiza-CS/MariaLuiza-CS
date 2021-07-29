@@ -1,5 +1,9 @@
-### Hey! i am Maria Luiza 👋
- 
+### Hey, i'm Maria Luiza 👋
+
+I am an android developer, lover of caffeine and big fan of geek universe.
+
+🌎 **"What we know is a drop, what we don't know is an ocean."**
+
  <div>
   <a href="https://github.com/MariaLuiza-CS">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MariaLuiza-CS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
