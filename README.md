@@ -4,10 +4,10 @@
 
 #### About me:
 - 📱 I am an android developer
-- 😊 Pronoums: She/Her
-- 📑 Aks me about Android world
+- 😊 Pronouns: She/Her
+- 📑 Ask me about Android world
 - 📚 Current learnig Kotlin/Java and Dart
-- 🤓 I am loking to collaborate on Android Project
+- 🤓 I am loking to collaborate on Android project
 - ☕ lover of caffeine and big fan of geek universe.
 
 🌎 **"What we know is a drop, what we don't know is an ocean."**
