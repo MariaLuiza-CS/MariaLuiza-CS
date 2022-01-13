@@ -7,7 +7,7 @@
 - 😊 Pronouns: She/Her
 - 📑 Ask me about Android world
 - 📚 Current learnig Kotlin/Java and Dart
-- 🤓 I am loking to collaborate on Android project
+- 🤓 I am looking to collaborate on Android project
 - ☕ lover of caffeine and big fan of geek universe.
 
 🌎 **"What we know is a drop, what we don't know is an ocean."**
@@ -34,7 +34,7 @@
   </a>
 </div>
  
- #### Conect with me 👇
+ #### Connect with me 👇
  
  <div>
   <a href="https://www.linkedin.com/in/marialuiza-0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
