@@ -18,8 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MariaLuiza-CS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLuiza-CS&layout=compact&langs_count=7&theme=radical"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MariaLuizaCS&theme=radical"/>
   </a>
 
 #### Skills ⚡
