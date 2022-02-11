@@ -6,7 +6,7 @@
 - 📱 I am an android developer
 - 😊 Pronouns: She/Her
 - 📑 Ask me about Android world
-- 📚 Current learnig Kotlin/Java and Dart
+- 📚 Current learning Kotlin/Java and Dart
 - 🤓 I am looking to collaborate on Android project
 - ☕ lover of caffeine and big fan of geek universe.
 
