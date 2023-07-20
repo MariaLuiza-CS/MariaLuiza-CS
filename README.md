@@ -36,9 +36,19 @@
   <img align="center" alt="Mark-android"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img align="center" alt="Mark-kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="Mark-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </a>
+</div>
+  <br>
+<div style="display: inline_block">
+   <a href="https://github.com/MariaLuiza-CS">
   <img align="center" alt="Mark-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Mark-firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img align="center" alt="Mark-GoogleAnalytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
+  </a>
+</div>
+  <br>
+<div style="display: inline_block">
+   <a href="https://github.com/MariaLuiza-CS">
   <img align="center" alt="Mark-figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Mark-Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
   <img align="center" alt="Mark-Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
