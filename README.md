@@ -3,11 +3,11 @@
 <h2 align="center" >Hey, i'm Maria Luiza 👋</h2>
 
 #### About me:
-- 📱 I am an android developer
-- 😊 Pronouns: She/Her
-- 📑 Ask me about Android world
-- 📚 Current learning Kotlin/Java and Dart
-- 🤓 I am looking to collaborate on Android project
+- 📱 I am an Android Developer.
+- 😊 Pronouns: She/Her.
+- 📑 Ask me about Android world.
+- 📚 Current learning Kotlin/Java and Dart.
+- 🤓 I am looking to collaborate on Android project.
 - ☕ lover of coffee and big fan of geek universe.
 
 🌎 **"What we know is a drop, what we don't know is an ocean."**
