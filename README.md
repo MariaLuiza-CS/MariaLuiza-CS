@@ -3,7 +3,7 @@
 <h2 align="center" >Hey, i'm Maria Luiza 👋</h2>
 
 #### About me:
-- 📱 I am an Android Developer.
+- 📱 I am an Android Engineer.
 - 😊 Pronouns: She/Her.
 - 📑 Ask me about Android world.
 - 📚 Current learning Kotlin/Java and Dart.
